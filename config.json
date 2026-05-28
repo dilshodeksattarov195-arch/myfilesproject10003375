@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionselete",
+        "uuid": 33338250,
+        "checksum": "8fyw29"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
